@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'newzletter-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D7E0889D8DC4AB6BF45A146D8515EC1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2948CCDC94E642FC958E0266014AF1CB }}
           package: .
